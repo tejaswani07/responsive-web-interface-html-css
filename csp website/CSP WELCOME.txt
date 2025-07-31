@@ -1,0 +1,21 @@
+<html>
+<head></head>
+<body>
+<h1><center>welcome</center></h1>
+<center><h2>HORTICULTURE</h2></center>
+<center><img src="https://th.bing.com/th/id/OIP.TwhoLY25JkVInrnV2SfyRwHaFj?w=245&h=184&c=7&r=0&o=5&dpr=1.5&pid=1.7" style="width:250px;height:250px;"></center>
+<fieldset>
+
+<legend>ACCOUNT EXIST:</legend>
+<h3> If u have already logged in please click the above link and log in with ur details</h3>
+<a href="csp login.html">visit login form</a>
+</fieldset><br>
+<fieldset>
+
+<legend>NEW ACCOUNT:</legend>
+<h3>click the below link to register as a new patient</h3>
+<a href="csp regis.html">visit registration form</a>
+</fieldset>
+
+</body>
+</html>
