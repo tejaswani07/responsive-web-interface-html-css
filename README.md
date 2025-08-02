@@ -16,6 +16,10 @@ A static multi-page HTML/CSS website designed to spread awareness about horticul
 - CSS3
 - JavaScript for interactivity
 
+## LinkedIn project link
+
+   https://www.linkedin.com/posts/tejaswanichadaram_html-css-frontenddevelopment-activity-7357400894763618304-C7qo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE_4vS4B33-2eQybH9HjspxWLNSZ0YobORs
+
 ## 📸 Screenshots
 
 
